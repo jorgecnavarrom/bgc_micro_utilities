@@ -1,3 +1,6 @@
+rename_fasta_headers/fasta_test
+rename_gbk_metadata/gbk_test
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
