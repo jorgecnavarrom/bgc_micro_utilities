@@ -42,6 +42,10 @@ gbk_test_out/subfolder/x/Mycreb1.region004.gb
 
 (note: the Biopython warning won't affect the tool)
 
+![before the tool is run](assets/before.png)
+
+![after a successful run](assets/after.png)
+
 Problems with filename uniqueness:
 
 ```
