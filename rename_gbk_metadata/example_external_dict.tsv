@@ -1,0 +1,9 @@
+# Example dictionary file for 'rename_gbk_metadata.py'
+# * Every line starting with a '#' will be ignored.
+# * Use a tab character (not spaces!) between columns
+# * Note that the filename must contain the 'region' substring (e.g. antiSMASH
+#	results v5+)
+# * The names are case-sensitive
+#
+# example row for files called 'Microcystis_aeruginosa_LEGE_91341.regionXXX.gbk'
+# Microcystis_aeruginosa_LEGE_91341	LEGE91341
