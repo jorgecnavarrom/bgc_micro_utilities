@@ -31,7 +31,7 @@ options:
 The following command:
 
 ```bash
-python metadata_tsv.py --input_folder ~/databases/MIBiG/3.1 --tsv_name annotations_reference.tsv --annotation Reference Set --value 'MIBiG 3.1' --include BGC
+python metadata_tsv.py --input_folder ~/databases/MIBiG/3.1 --tsv_name annotations_reference.tsv --annotation 'Reference Set' --value 'MIBiG 3.1' --include BGC
 ```
 
 Will create a file `annotations_reference.tsv` which looks like:
